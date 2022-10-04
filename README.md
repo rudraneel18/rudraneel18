@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Rudraneel Dutta this side!</h1>
 
 <!-- <p align="center">
