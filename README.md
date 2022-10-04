@@ -1,27 +1,21 @@
 ### Hi there 👋
-<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Gantavya this side!</h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Rudraneel Dutta this side!</h1>
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gantavyamalviya/)](https://www.linkedin.com/in/gantavyamalviya/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/gantavyamalviya/)](https://www.twitter.com/gantavyamalviya/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gantavyamalviya/)](https://www.instagram.com/gantavyamalviya/)
-[![Medium](https://img.shields.io/badge/-Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@gantavyamalviya/)](https://www.medium.com/@gantavyamalviya/)
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gantavyamalviya/)](https://www.github.com/gantavyamalviya/)
-[![views](https://komarev.com/ghpvc/?username=gantavyamalviya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/gantavyamalviya)
-<!-- </p> -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudraneel-dutta/)](https://www.linkedin.com/in/rudraneel-dutta/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rudraneel_dutta/)](https://www.instagram.com/rudraneel_dutta/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/rudraneel18/)](https://www.github.com/rudraneel18/)
 
 
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
+- 🎈My interest lies in Machine Learning, Data Science and Artificial Intelligence
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
 
-- 📄 Know about my experiences [here](https://gantavyamalviya.github.io/resume.pdf)
+- 📄 Know about my experiences [here](https://portfolio.rudraneeldutta.dev)
 
-- 🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions.
-
-- 🔭 You can see my blogs [here](https://gantavyamalviya.medium.com)
 
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
 
@@ -30,17 +24,11 @@
 
 ### Coding Profiles
 
-<a href="https://www.codechef.com/users/gantu" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="gantavyamalviya" height="32" width="37" /></a>
+<a href="https://www.codechef.com/users/rudraneeldutta" target="blank"><img align="left" src="https://img.icons8.com/fluency/240/000000/codechef.png" alt="rudraneeldutta" height="32" width="37" /></a>
 
-<a href="https://www.hackerrank.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="gantavyamalviya" height="32" width="32" /></a>
+<a href="https://www.hackerrank.com/rishi18neel" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="rudraneeldutta" height="32" width="32" /></a>
 
-<!-- <a href="https://codeforces.com/profile/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="gantavyamalviya" height="30" width="30" /></a> -->
-
-<a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="gantavyamalviya" height="32" width="32" /></a>
-
-<a href="https://atcoder.jp/users/gantavyamalviya" target="blank"><img align="left" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="gantavyamalviya" height="37" width="37" /></a>
-
-<!-- <a href="https://auth.geeksforgeeks.org/user/gantavyamalviya/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gantavyamalviya/profile" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/gantavyamalviya" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="rudraneeldutta" height="32" width="32" /></a>
 
 <br/>
 
@@ -54,8 +42,9 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
 <img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
-
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/344/tensorflow.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/344/power-bi.png />
+<img align="left" height="32" width="32" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" />
  </a>
 <br/>
 
@@ -91,19 +80,9 @@
 <br/>
 <br/> -->
 
-### Other Interests
-<a href ="https://github.com/gantavyamalviya">
-
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/figma--v1.png" />
-<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/arduino.png" />
-</a>
-<br/>
-<br/>
 
 
 
-### Read my recent blogs here :
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gantavyamalviya/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gantavyamalviya/0" alt="Recent Article 0" /></a>&nbsp;&nbsp;
 
 
 
@@ -146,4 +125,4 @@
 
 <p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-gantavyamalviya-red)](https://github.com/gantavyamalviya)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Rudraneel%20Dutta-red)](https://github.com/rudraneel18)
