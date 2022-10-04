@@ -12,7 +12,7 @@
 <!-- - 🔭 I’m currently working on [CodeMistic](https://codemistic.in) -->
 - 🎈My interest lies in Machine Learning, Data Science and Artificial Intelligence
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Web Development**
+- 🌱 I’m currently learning **Data Structures, Algorithms, Web Development and Deep Learning**
 
 - 📄 Know about my experiences [here](https://portfolio.rudraneeldutta.dev)
 
