@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, Web Development and Deep Learning**
 
-- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://portfolio.rudraneeldutta.dev)
+- 📄 Know about my experiences [![here](https://img.shields.io/badge/-Click_Here-orange)](https://portfolio-25f5b.firebaseapp.com/)
 
 
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="300">
